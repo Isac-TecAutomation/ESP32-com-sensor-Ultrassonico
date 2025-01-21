@@ -1,0 +1,1 @@
+# Supervis-rio-de-Temperatura-Esp32-e-Micropython
